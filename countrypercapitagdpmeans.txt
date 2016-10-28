@@ -1,0 +1,6 @@
+Country Per Capita GDP	Mean Score	Count
+low	3.5	45
+medium-low	4.9	44
+medium-high	7.0	44
+high	9.3	44
+

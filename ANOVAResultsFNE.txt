@@ -1,0 +1,43 @@
+Analysis of Variance Table (Gender)
+
+Response: FNEINDEX
+              Df  Sum Sq Mean Sq F value   Pr(>F)   
+mrd$Gender.f   3   957.1  319.03  4.7792 0.002767 **
+Residuals    399 26634.7   66.75                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Analysis of Variance Table (Age Categories)
+
+Response: FNEINDEX
+           Df  Sum Sq Mean Sq F value    Pr(>F)    
+mrd$Age.f   6  2799.3  466.54  7.4519 1.416e-07 ***
+Residuals 396 24792.5   62.61                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Analysis of Variance Table (Library Type)
+
+Response: FNEINDEX
+               Df  Sum Sq Mean Sq F value Pr(>F)  
+mrd$LibType.f   3   526.9 175.624  2.5933 0.0523 .
+Residuals     397 26886.3  67.724                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+Analysis of Variance Table (Supervisor or Not)
+
+Response: mrd$FNEINDEX
+                  Df  Sum Sq Mean Sq F value Pr(>F)
+mrd$Supervisor.f   1   151.1 151.096  2.2085  0.138
+Residuals        398 27229.7  68.416 
+
+Analysis of Variance Table (Length of Service)
+
+Response: FNEINDEX
+                            Df  Sum Sq Mean Sq F value    Pr(>F)    
+mrd$YrsWorkedInLibraries.f   7  2009.7 287.103   4.433 9.258e-05 ***
+Residuals                  395 25582.0  64.765                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

@@ -1,0 +1,4 @@
+Divorce rate in Maine
+Divorces per 1000 people (US Census)	5	4.7	4.6	4.4	4.3	4.1	4.2	4.2	4.2	4.1	
+Per capita consumption of margarine (US)
+Pounds (USDA)	8.2	7	6.5	5.3	5.2	4	4.6	4.5	4.2	3.7
