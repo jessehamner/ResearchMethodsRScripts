@@ -31,3 +31,7 @@ __pycache__/
 Icon*
 .DS_Store
 .dropbox
+
+# R                                                                                                                                                                          
+.Rapp.history                                                                                                                                                                
+.Rhistory  
