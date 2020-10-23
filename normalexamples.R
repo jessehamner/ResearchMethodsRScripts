@@ -1,6 +1,6 @@
 # R plots of distributions
 
-# 2011-2012, Jesse Hamner
+# 2011-2020, Jesse Hamner
 # Much of this R code was assembled from multiple sources
 # in the public domain. The remainder (and any errors) are mine.
 #
